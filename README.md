@@ -38,7 +38,7 @@ Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplika
 
 | Projekt | Opis | Technologia |
 |---------|------|-------------|
-| **Askom** | Strona WWW | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
+| **ASKOM** | Strona WWW | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
 
 ---
 
@@ -84,8 +84,8 @@ Aktualnie rozwijam umiejętności w zakresie:
 - **JavaScript** - 99.7% (MathClass)
 - **Python** - 100% (File Converter, Weather Check)
 - **PowerShell** - 96.9% (Disaster Recovery)
-- **HTML** - 100% (Webcodesite), 76.5% (Askom), 47.7% (Weather Check)
-- **CSS** - 23.5% (Askom)
+- **HTML** - 100% (Webcodesite), 76.5% (ASKOM), 47.7% (Weather Check)
+- **CSS** - 23.5% (ASKOM)
 - **Shell** - 3.1% (Disaster Recovery)
 
 ---
@@ -111,7 +111,7 @@ Jestem otwarty na:
 
 ---
 
-# 👋 Hello! I'm Mateusz Jankowski
+# 👋 Hello! I'm Mateusz
 
 **Mid-Level Developer | Full-Stack Enthusiast | WebcodeSite Studio Team Member**
 
@@ -151,7 +151,7 @@ A passionate programmer creating educational solutions and useful applications. 
 
 | Project | Description | Technology |
 |---------|-------------|------------|
-| **Askom** | Website | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
+| **ASKOM** | Website | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
 
 ---
 
@@ -197,8 +197,8 @@ Currently developing skills in:
 - **JavaScript** - 99.7% (MathClass)
 - **Python** - 100% (File Converter, Weather Check)
 - **PowerShell** - 96.9% (Disaster Recovery)
-- **HTML** - 100% (Webcodesite), 76.5% (Askom), 47.7% (Weather Check)
-- **CSS** - 23.5% (Askom)
+- **HTML** - 100% (Webcodesite), 76.5% (ASKOM), 47.7% (Weather Check)
+- **CSS** - 23.5% (ASKOM)
 - **Shell** - 3.1% (Disaster Recovery)
 
 ---
