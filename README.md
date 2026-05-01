@@ -2,7 +2,7 @@
 
 **Mid-Level Developer | Full-Stack Enthusiast | WebCodeSite Studio Team Member**
 
-Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplikacji. Specjalizuję się w JavaScript, Python, PowerShell i technologiach webowych. Aktualnie pracuję z zespołem **WebCodeSite Studio** nad innowacyjnymi projektami.
+Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplikacji. Specjalizuję się w JavaScript, Python, PowerShell i technologiach webowych. Aktualnie pracuję z zespołem **WebCodeSite Studio**.
 
 ---
 
@@ -29,16 +29,16 @@ Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplika
 
 | Projekt | Opis | Technologia |
 |---------|------|-------------|
-| **Disaster Recovery** | Skrypty do eksportu VirtualMachine z Windows Hornetsecurity do Proxmox | ![PowerShell](https://img.shields.io/badge/PowerShell-96.9%25-012456?style=flat) ![Shell](https://img.shields.io/badge/Shell-3.1%25-4EAA25?style=flat) |
+| **Disaster Recovery** | Skrypty do eksportu VirtualMachine z Windows Hornetsecurity do Proxmox | ![PowerShell](https://img.shields.io/badge/PowerShell-96.9%25-012456?style=flat) ![Shell](https://img.shields.io/badge/Shell-3.1%25-121011?style=flat) |
 | **File Converter & Images Cropper** | Narzędzie do konwersji i przycięcia obrazów | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat) |
-| **Weather Check** | Aplikacja do sprawdzania pogody | ![TeX](https://img.shields.io/badge/TeX-51.9%25-3D6117?style=flat) ![HTML](https://img.shields.io/badge/HTML-47.7%25-E34C26?style=flat) ![Python](https://img.shields.io/badge/Python-0.4%25-3776AB?style=flat) |
+| **Weather Check** | Aplikacja do sprawdzania pogody | ![TeX](https://img.shields.io/badge/TeX-51.9%25-3D6117?style=flat) ![HTML](https://img.shields.io/badge/HTML-47.7%25-E34C26?style=flat) ![Python](https://img.shields.io/badge/Python-blue?style=flat) |
 | **WebCodeSite** | Strona portfolio | ![HTML](https://img.shields.io/badge/HTML-100%25-E34C26?style=flat) |
 
 ### 🌐 Inne Projekty
 
-| Projekt | Opis | Technologia |
-|---------|------|-------------|
-| **ASKOM** | Strona WWW | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
+| Projekt | Opis | Technologia | Link |
+|---------|------|-------------|------|
+| **ASKOM** | Strona WWW | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) | [askom.waw.pl](https://askom.waw.pl) |
 
 ---
 
@@ -115,7 +115,7 @@ Jestem otwarty na:
 
 **Mid-Level Developer | Full-Stack Enthusiast | WebCodeSite Studio Team Member**
 
-A passionate programmer creating educational solutions and useful applications. I specialize in JavaScript, Python, PowerShell, and web technologies. Currently working with the **WebCodeSite Studio** team on innovative projects.
+A passionate programmer creating educational solutions and useful applications. I specialize in JavaScript, Python, PowerShell, and web technologies. Currently working with the **WebCodeSite Studio** team.
 
 ---
 
@@ -142,16 +142,16 @@ A passionate programmer creating educational solutions and useful applications. 
 
 | Project | Description | Technology |
 |---------|-------------|------------|
-| **Disaster Recovery** | Scripts to export VirtualMachine from Windows Hornetsecurity to Proxmox | ![PowerShell](https://img.shields.io/badge/PowerShell-96.9%25-012456?style=flat) ![Shell](https://img.shields.io/badge/Shell-3.1%25-4EAA25?style=flat) |
+| **Disaster Recovery** | Scripts to export VirtualMachine from Windows Hornetsecurity to Proxmox | ![PowerShell](https://img.shields.io/badge/PowerShell-96.9%25-012456?style=flat) ![Shell](https://img.shields.io/badge/Shell-3.1%25-121011?style=flat) |
 | **File Converter & Images Cropper** | Tool for image conversion and cropping | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat) |
-| **Weather Check** | Weather checking application | ![TeX](https://img.shields.io/badge/TeX-51.9%25-3D6117?style=flat) ![HTML](https://img.shields.io/badge/HTML-47.7%25-E34C26?style=flat) ![Python](https://img.shields.io/badge/Python-0.4%25-3776AB?style=flat) |
+| **Weather Check** | Weather checking application | ![TeX](https://img.shields.io/badge/TeX-51.9%25-3D6117?style=flat) ![HTML](https://img.shields.io/badge/HTML-47.7%25-E34C26?style=flat) ![Python](https://img.shields.io/badge/Python-blue?style=flat) |
 | **WebCodeSite** | Portfolio website | ![HTML](https://img.shields.io/badge/HTML-100%25-E34C26?style=flat) |
 
 ### 🌐 Other Projects
 
-| Project | Description | Technology |
-|---------|-------------|------------|
-| **ASKOM** | Website | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) |
+| Project | Description | Technology | Link |
+|---------|-------------|------------|------|
+| **ASKOM** | Website | ![HTML](https://img.shields.io/badge/HTML-76.5%25-E34C26?style=flat) ![CSS](https://img.shields.io/badge/CSS-23.5%25-1572B6?style=flat) | [askom.waw.pl](https://askom.waw.pl) |
 
 ---
 
