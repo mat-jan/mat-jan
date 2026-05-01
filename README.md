@@ -1,4 +1,4 @@
-# 👋 Cześć! Jestem Mateusz Jankowski
+# 👋 Cześć! Jestem Mateusz
 
 **Mid-Level Developer | Full-Stack Enthusiast | WebcodeSite Studio Team Member**
 
