@@ -8,9 +8,9 @@ Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplika
 
 ## 🚀 O WebCodeSite Studio
 
-**WebCodeSite Studio** to zespół, w którym rozwijam swoje umiejętności i tworzę aplikacje dla edukacji. Nasza misja to dostarczanie wysokiej jakości narzędzi dla nauczycieli i uczniów.
+**WebCodeSite Studio** to mój brand, w którym rozwijam swoje umiejętności i tworzę aplikacje komercyjne oraz dla edukacji. 
 
-**Nasze projekty:**
+**Projekty w ramach WebCodeSite.studio:**
 - 📚 **MathClass** - Aplikacja dla nauczycieli do egzaminowania uczniów
 - ✅ **Gold Check** - System weryfikacji i kontroli jakości
 
