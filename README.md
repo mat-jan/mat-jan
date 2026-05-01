@@ -1,4 +1,4 @@
-# 👋 Cześć! Jestem Mateusz
+# 👋 Cześć! Jestem Mateusz Jankowski
 
 **Mid-Level Developer | Full-Stack Enthusiast | WebcodeSite Studio Team Member**
 
@@ -63,14 +63,6 @@ Programista z pasją do tworzenia rozwiązań edukacyjnych i użytecznych aplika
 
 ---
 
-## 📊 GitHub Statystyki
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat-jan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-jan&layout=compact&theme=radical)
-
----
-
 ## 💡 O Mnie
 
 Jestem **mid-level developerem** z zamiłowaniem do:
@@ -83,6 +75,18 @@ Aktualnie rozwijam umiejętności w zakresie:
 - Zaawansowanego JavaScript i frameworków
 - DevOps i automatyzacji infrastruktury
 - Fullstack development
+
+---
+
+## 📊 Doświadczenie
+
+### Języki programowania
+- **JavaScript** - 99.7% (MathClass)
+- **Python** - 100% (File Converter, Weather Check)
+- **PowerShell** - 96.9% (Disaster Recovery)
+- **HTML** - 100% (Webcodesite), 76.5% (Askom), 47.7% (Weather Check)
+- **CSS** - 23.5% (Askom)
+- **Shell** - 3.1% (Disaster Recovery)
 
 ---
 
@@ -172,14 +176,6 @@ A passionate programmer creating educational solutions and useful applications. 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat-jan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-jan&layout=compact&theme=radical)
-
----
-
 ## 💡 About Me
 
 I'm a **mid-level developer** passionate about:
@@ -192,6 +188,18 @@ Currently developing skills in:
 - Advanced JavaScript and frameworks
 - DevOps and infrastructure automation
 - Fullstack development
+
+---
+
+## 📊 Experience
+
+### Programming Languages
+- **JavaScript** - 99.7% (MathClass)
+- **Python** - 100% (File Converter, Weather Check)
+- **PowerShell** - 96.9% (Disaster Recovery)
+- **HTML** - 100% (Webcodesite), 76.5% (Askom), 47.7% (Weather Check)
+- **CSS** - 23.5% (Askom)
+- **Shell** - 3.1% (Disaster Recovery)
 
 ---
 
